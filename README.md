@@ -58,25 +58,23 @@ Melakukan segmentasi customer agar pemasaran tepat sasaran
 - NumStorePurchases: Jumlah pembelian yang dilakukan langsung di toko
 - NumWebVisitsMonth: Jumlah kunjungan ke situs web perusahaan dalam sebulan terakhir
 
-## Business Question
-
-### 7. Item ikan cocok untuk customer yang seperti apa?
+## Data Vis
 
 
-![](https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/7.%20Spent%20on%20Fish.PNG)
+![](https://github.com/yasondawsonimawan/Project2_YasonDawson/tree/main/Screenshoot/Dashboard 1.PNG)
 
-Insight :
 
-Dapat dilihat dari kelompok umur bahwa adult dan senior age memiliki potensi karena  memiliki higher spent yang besar pada pembelian item jenis ikan.
+## Kesimpulan
+1. Terdapat 88,53% pelanggan yang memiliki pendidikan melalui Perguruan Tinggi;
+2. Kemudian, terdapat 64,51% Pelanggan yang memiliki pasangan dengan rata 84% adult dan mature dan 12% adalah young adult;
+3. Data Pelanggan menunjukkan bahwa 29% tidak memiliki anak, 50% memiliki 1 anak, 19,38% memiliki 2 anak, dan sisanya memiliki 3 anak;
+4. Berdasarkan metode clustering, pelanggan yang tidak memiliki anak dan memiliki 1 anak tersebut berpotensi kontribusi paling besar pada segments stars dan juga high potensial;
+5. Anggur menyumbang sebagian besar penjualan unit di seluruh segmen, daging memberikan kontribusi penjualan unit yang signifikan di seluruh segmen, dan gold menjadi populer dalam segmen Need attention & Leaky Bucket;
 
-Dikutip dari maplewoodseniorlivin.com banyaknya orang di usia senja mengonsumsi ikan dikarenakan banyaknya terkandung asam lemak omega 3 yang berkhasiat untuk mengurangi peradangan sendi, mengurangi risiko depresi, ADHD, serta diabetes.
+## Saran :
 
-Source :
-https://www.maplewoodseniorliving.com/blog/how-eating-fish-keeps-seniors-healthy-maplewood/#:~:text=Fish%20Help%20You%20Have%20a%20Healthy%20Heart&text=These%20omega%2D3%20fatty%20acids,types%20of%20dementia%2C%20and%20diabetes.
+1. Klustering dari data tersebut lebih dispesifikasikan kembali, seperti cluster 1, 2, 3, dst yang berdasar pada data tersebut seperti umur, income, marital status, jumlah anak, level spending, education, rata-rata deal pembelian, dan offer responds;
+2. Disarankan untuk melalukan beberapa metode selain apriori sebagai pembanding tingkat akurasi dari data tersebut.
 
-Recomendation :
-
-Tim marketing dapat mengadakan festival seafood seperti THE DORSET SEAFOOD FESTIVAL di UK dengan mengundang chef terkenal untuk merepresentasikan masakan berbahan ikan, acara musik, dan tempat bersantai yang nyaman sebagai daya tarik pengunjung. Pada festival tersebut, tim marketing dapat menyampaikan bahwa Ikan segar yang digunakan tersedia di toko ini.
-
-Source :
-https://www.dorsetseafood.co.uk/News/82/SEAFEAST_%E2%80%93_The_Dorset_Seafood_Festival/
+My original Colabs:
+https://colab.research.google.com/drive/182qFHJNUaB3YWAkjnu-j4PFv6RQWBZZA?usp=sharing
