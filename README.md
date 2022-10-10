@@ -61,7 +61,7 @@ Melakukan segmentasi customer agar pemasaran tepat sasaran
 ## Data Vis
 
 
-![](https://github.com/yasondawsonimawan/Project2_YasonDawson/tree/main/Screenshoot/Dashboard 1.PNG)
+![](https://github.com/yasondawsonimawan/Project2_YasonDawson/blob/main/Screenshoot/Dashboard%201.png)
 
 
 ## Kesimpulan
